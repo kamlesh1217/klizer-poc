@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/kamlesh1217/klizer-poc/
+    type: markup
+
+folders:
+  /products/: /products/default
